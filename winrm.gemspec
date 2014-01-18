@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.author = ['Dan Wanek','Paul Morton']
   s.email = ['dan.wanek@gmail.com','paul@themortonsonline.com']
   s.homepage = "http://github.com/WinRb/WinRM"
+  s.license = "Apache 2.0"
 
   s.summary = 'Ruby library for Windows Remote Management'
   s.description	= <<-EOF
